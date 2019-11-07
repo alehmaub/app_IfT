@@ -1,0 +1,45 @@
+.contenedor{
+	width: 90%;
+	min-width: 300px;
+	border: 1px solid;
+  	padding: 10px;
+  	box-shadow: 5px 10px 8px #888888;
+  	border-radius: 10px;
+  	text-align: center;
+  	margin: auto;
+  	margin-top: 50px;
+}
+
+.logo{
+	max-width: 300px; 
+	height: auto;
+}
+
+.icon{
+	width: 100%;
+	max-width: 200px;
+  	height: auto;
+}
+
+.send{
+	max-height: 150px;
+	width: auto;
+}
+
+h1{
+	font-style: italic;
+}
+
+input{
+	height: 30px;
+	width: 300px;
+	padding: 5px;
+	margin: 5px;
+}
+
+button{
+	width: 100px;
+	height: 50px;
+	padding: 5px;
+	margin: 5px;
+}
